@@ -4,7 +4,7 @@
 
 2. The architecture of our BathNet framework.
 
-<div align=center>< img src="./network.jpg"></div>
+<div align=center><img src="./network.jpg"></div>
 
 3. Users can run ```python train.py```  to train a model.
 
