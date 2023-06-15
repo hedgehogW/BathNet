@@ -3,8 +3,7 @@
 1. This is the implementation of our paper 'BathNet: A network to classification of fundus and contrast images using label transfer and multibranch transformer'.
 
 2. The architecture of our BathNet framework.
-
-   ![](.\network.jpg)
+   ![](network.jpg)
 
 3. Users can run ```python train.py```  to train a model.
 
