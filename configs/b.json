@@ -1,0 +1,15 @@
+{
+ "model": "AGMB2",
+ "batch_size": 12,
+ "lr": 0.03939,
+ "n_channels": 3,
+ "n_classes": 6,
+ "data_path_train": "/home/xzh/eyes/label/yandi/B-data/B-train",
+ "data_path_valid": "/home/xzh/eyes/label/yandi/B-data/B-val",
+ "data_path_test": "/home/xzh/eyes/label/yandi/B-data/B-test",
+ "csv_path_train": "/home/xzh/eyes/label/yandi/B-label/B-train.csv",
+ "csv_path_val": "/home/xzh/eyes/label/yandi/B-label/B-val.csv",
+ "csv_path_test": "/home/xzh/eyes/label/yandi/B-label/B-test.csv",
+ "start_epoch": 0,
+ "end_epoch": 100
+}

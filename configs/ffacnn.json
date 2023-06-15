@@ -1,0 +1,15 @@
+{
+ "model": "ResNet18",
+ "batch_size": 12,
+ "lr": 0.02628,
+ "n_channels": 3,
+ "n_classes": 3,
+ "data_path_train": "/home/xzh/eyes/label/yandi/FFAdata/FFA_train",
+ "data_path_valid": "/home/xzh/eyes/label/yandi/FFAdata/FFA_val",
+ "data_path_test": "/home/xzh/eyes/label/yandi/FFAdata/FFA_test",
+ "csv_path_train": "/home/xzh/eyes/label/yandi/FFAlabels/FFA_train.csv",
+ "csv_path_val": "/home/xzh/eyes/label/yandi/FFAlabels/FFA_val.csv",
+ "csv_path_test": "/home/xzh/eyes/label/yandi/FFAlabels/FFA_test.csv",
+ "start_epoch": 0,
+ "end_epoch": 100
+}
